@@ -1,0 +1,42 @@
+* Clojure Data Science Course -- General Information
+
+**TENTATIVE PLAN**
+
+This repo holds general information about the Clojure Data Science Course that will begin in Tel Avi towards the end of 2018.
+
+[[./images/feet-in-water.jpg]]
+
+** Goals
+- Create a study group willing to think and learn together.
+- Have fun.
+- Learn new methods and tools.
+- In few months, create a group of people who love to do data science using Clojure.
+
+** The format
+- We will divide into two small groups, of up to 12 people each.
+- Every 3 weeks we will have two meetings of identical content - one for each group. At least one of them will be held in English.
+- In about 6 meetings, peole should gain some reasonable practical independence with the language.
+- We will have at least 12 meetings - that is, till the middle of the summer. Then, we may decide to continue with more advanced topics.
+- Usually, the first hour of meetings will be directed at beginners. People who feel more experienced can join later.
+
+** Homework
+- We will have practical homework tasks. In the beginning, they may include some reading.
+- We will discuss the homework at some common web space.
+- After several meetings, we may suggest some optional larger home project.
+
+** Time
+**NOTE THIS**
+- Group A meetings: Sunday 18:00-21:00 every 3 weeks.
+- Group B meetings: Wednesday 18:00-21:00 every 3 weeks.
+- If people feel like it, we will set occasional meetings for doing homework togetehr, and training together.
+
+** Place
+Madlan (Localize.city) offices at Yigal Alon St 57, Tel Aviv.
+
+** Course Plan
+TBD
+
+** Forum
+We are still trying to figure out which web space place would be the best for group discussions.
+A Reddit Channel? Clojureverse? IRC? Discord?
+We would love to hear your opinions here.
