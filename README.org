@@ -1,4 +1,5 @@
-*  **TENTATIVE PLAN** Clojure Data Science Course -- General Information
+* **TENTATIVE PLAN**
+* Clojure Data Science Course -- General Information
 
 This repo holds general information about the Clojure Data Science Course that will begin in Tel Aviv towards the end of 2018.
 
@@ -8,7 +9,7 @@ The course is organized by our [[https://www.meetup.com/Clojure-Israel/][local m
 
 Are you a data scientist or analyst looking for new tools and new ways of thought? Are you curious to know what Clojure is? Then this free course is for you.
 
-Are you an experienced Clojurian, curious about data science? Then you are invited too - you will probably find this interesting and useful as well.
+Are you an experienced Clojurian, curious about data science? Then you are invited too -- you will probably find this interesting and useful as well.
 
 Clojure is a programming language. It presents a unique blend of Computer Science paradigms, mainly Lisp and Functional Programming. It also offers a certain culture of thought, which calls for simplicity, focus on data, interactive experience and a dynamic flow of creativity. The fusion of all these allows for a rather joyful programming experience.
 
@@ -30,15 +31,16 @@ The purpose of this course is to study Clojure as a practical tool for data scie
 - Every 3 weeks we will have two meetings of identical content -- one for each group. At least one of them will be held in English.
 - In about 6 meetings, people should gain some reasonable practical independence with the language.
 - We will have at least 12 meetings -- that is, till the middle of the summer. Then, we may decide to continue with more advanced topics.
-- Usually, the first hour of meetings will be first and foremost for beginners. People who feel more experienced can join later.
+- On the first meetings, the first hour will be for beginners' material. People who feel more experienced will be able to join at the beginning of the second hour.
 
 ** Homework
-- We will have practical homework tasks. In the beginning, they may include some reading.
+- We will have practical homework tasks. They may include some reading.
 - We will discuss the homework at some common web space.
 - After several meetings, we may suggest some optional larger home project.
 
-** **NOTE THIS** Time
-- Group A meetings: Sunday 18:00-21:00 every 3 weeks - first meeting on 
+** **NOTE THIS**
+** Time
+- Group A meetings: Sunday 18:00-21:00 every 3 weeks.
 - Group B meetings: Wednesday 18:00-21:00 every 3 weeks.
 - If people feel like it, we will have occasional meetings for doing homework and training together.
 
@@ -58,5 +60,5 @@ Coming soon.
 - We would love to hear your opinion here -- which one is the most beginner friendly: Nightcode? Atom? VSCode?
 
 ** More details
-See some discussion here.
+See some discussion here (note the meeting date is not true).
 https://www.meetup.com/Clojure-Israel/events/255927870/
