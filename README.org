@@ -24,7 +24,7 @@ The purpose of this course is to study Clojure as a practical tool for data scie
 - In few months, create a group of people who love to do data science using Clojure.
 
 ** What should I do to join the course?
-- Contact the [[https://www.meetup.com/Clojure-Israel/members/63580692/][course organizer]] personally.
+- Contact the [[https://www.meetup.com/Clojure-Israel/members/63580692/][course organizer]] in person.
 
 ** The format
 - We will divide into two small groups, of up to 12 people each.
