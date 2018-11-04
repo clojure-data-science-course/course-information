@@ -15,7 +15,7 @@ Clojure is a programming language. It presents a unique blend of Computer Scienc
 
 The purpose of this course is to study Clojure as a practical tool for data science.
 
-[[./images/feet-in-water.jpg]]
+[[./images/joy.jpg]]
 
 ** Goals
 - Create a study group -- a team of people willing to think and learn together.
