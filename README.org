@@ -40,7 +40,7 @@ The purpose of this course is to study Clojure as a practical tool for data scie
 
 ** **NOTE THIS**
 ** Time
-- Group A meetings: Sunday 18:00-21:00 every 3 weeks.
+- Group A meetings: Sunday 18:00-21:00 every 3 weeks. Another alternative: Fri 9:00-12:00.
 - Group B meetings: Wednesday 18:00-21:00 every 3 weeks.
 - If people feel like it, we will have occasional meetings for doing homework and training together.
 
