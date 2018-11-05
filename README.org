@@ -72,7 +72,7 @@ Everything here may change after more thought and discussion.
      - using synthetic random data to verify your models
      - the [[http://haifengl.github.io/smile/][Smile]] library
      - more visualization
-**** Writing an algorithm: simplifying the complex
+**** Writing an algorithm: decomplecting the complicated
      - example: genetic algotithms
      - a more complete dev setup (probably with VSCode)
      - using [[https://github.com/tonsky/datascript][Datascript]] to organize and query your data
