@@ -125,5 +125,4 @@ Here the order of classes is not known yet.
 - We would love to hear your opinion here -- which one is the most beginner friendly: Nightcode? Atom? VSCode?
 
 ** More details
-See some discussion [[https://www.meetup.com/Clojure-Israel/events/255927870/][here]] (note the meeting date is not true).
-
+See some discussion [[https://www.meetup.com/Clojure-Israel/events/255927870/][here]].
