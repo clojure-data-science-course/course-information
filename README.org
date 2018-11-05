@@ -62,7 +62,7 @@ Everything here may change after more thought and discussion.
      - a closer look at higher order functions
      - example: data cleaning and processing
      - discussion of FP
-     - Specter
+     - powerful data manipulation with [[https://github.com/nathanmarz/specter][Specter]]
      - example: more web scraping
 **** Machine Learning through Java Interop
      - intro to the JVM
@@ -75,14 +75,14 @@ Everything here may change after more thought and discussion.
 **** Writing an algorithm: simplifying the complex
      - example: genetic algotithms
      - a more complete dev setup (probably with VSCode)
-     - using datascript to organize and query your data
+     - using [[https://github.com/tonsky/datascript][Datascript]] to organize and query your data
      - existing libraries for genetic algorithms
      - writing our own algorithm
 **** R interop
      - working with R from Clojure
      - basic probability and statistics
      - visualizations: ggplot2, R's htmlwidgets, plotly, leaflet
-     - example: probabilistic modelling of data
+     - example: probabilistic modelling
 **** Asynchronous processes
      - channels
      - transducers
