@@ -5,7 +5,13 @@ This repo holds general information about the Clojure Data Science Course that w
 
 The course is organized by our [[https://www.meetup.com/Clojure-Israel/][local meetup group]]. Several members have been contributing to the course.
 
-* Intro 
+** Meetings
+
+[[https://www.meetup.com/Clojure-Israel/events/255927870/][Meeting A1]] - Nov 25th 2018
+
+[[https://www.meetup.com/Clojure-Israel/events/256159018/][Meeting B1]] - Nov 28th 2018
+ 
+** Intro 
 
 Are you a data scientist or analyst looking for new tools and new ways of thought? Are you curious to know what Clojure is? Then this free course is for you.
 
@@ -38,9 +44,8 @@ The purpose of this course is to study Clojure as a practical tool for data scie
 - We will discuss the homework at some common web space.
 - After several meetings, we may suggest some optional larger home project.
 
-** **NOTE THIS**
 ** Time
-- Group A meetings: Sunday 18:00-21:00 every 3 weeks. Another alternative: Fri 9:00-12:00 -- which is better for you?
+- Group A meetings: Sunday 18:00-21:00 every 3 weeks.
 - Group B meetings: Wednesday 18:00-21:00 every 3 weeks.
 - If people feel like it, we will have occasional meetings for doing homework and training together.
 
