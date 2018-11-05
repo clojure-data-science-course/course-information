@@ -51,6 +51,14 @@ The purpose of this course is to study Clojure as a practical tool for data scie
 ** Place
 Madlan (Localize.city) offices at Yigal Alon St 57, Tel Aviv.
 
+** Recommended reading
+
+*** Clojure for the Brave and True
+- One excellent way to prepare for the course is Daniel Higginbotham's [[https://www.braveclojure.com/clojure-for-the-brave-and-true/][Book]].
+- The most relevant chapters are 1,3,4,5,(6),9,11,12.
+- Note that the book recommends the wonderful Emacs editor. Eventough it is wonderful, and arguably the best way to do programming, in this course we will use other tools, which are more beginner-friendly: Jupyter and VSCode.
+- If you feel stuck or are facing any difficulty with the book and tooling -- let us talk!
+
 ** Tentative Course Plan
 Everything here may change after more thought and discussion.
 *** Essential Topics
