@@ -9,7 +9,11 @@ The course is organized by our [[https://www.meetup.com/Clojure-Israel/][local m
 [[https://www.meetup.com/Clojure-Israel/events/255927870/][Meeting A1]] - Nov 25th 2018
 
 [[https://www.meetup.com/Clojure-Israel/events/256159018/][Meeting B1]] - Nov 28th 2018
- 
+
+** How can I help?
+
+[[docs/help.org][here]]
+
 ** Intro 
 
 Are you a data scientist or analyst looking for new tools and new ways of thought? Are you curious to know what Clojure is? Then this free course is for you.
