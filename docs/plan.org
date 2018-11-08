@@ -1,0 +1,63 @@
+** Tentative Course Plan
+Everything here may change after more thought and discussion.
+*** Essential Topics
+**** Basic Introduction
+     - Clojure+Jupyter setup
+     - language basics: functions, data structures
+     - higher order function
+     - parallel computing
+     - example: basic web scraping
+     - basic statistics
+     - visualization with [[https://github.com/metasoarous/oz][Oz]]
+**** Functional Programming
+     - a closer look at higher order functions
+     - example: data cleaning and processing
+     - discussion of FP
+     - powerful data manipulation with [[https://github.com/nathanmarz/specter][Specter]]
+     - example: more complex web scraping
+**** Machine Learning through Java Interop
+     - intro to the JVM
+     - working with Java classes, objects and methods
+     - example: basic machine learning
+     - representing your experiment plan with data
+     - using synthetic random data to verify your models
+     - the [[http://haifengl.github.io/smile/][Smile]] library
+     - more visualization
+**** Writing an algorithm: decomplecting the complicated
+     - example: genetic algotithms
+     - a more complete dev setup (probably with VSCode)
+     - using [[https://github.com/tonsky/datascript][Datascript]] to organize and query your data
+     - existing libraries for genetic algorithms
+     - writing our own algorithm
+**** R interop
+     - working with R from Clojure
+     - basic probability and statistics
+     - visualizations: ggplot2, R's htmlwidgets, plotly, leaflet
+     - example: probabilistic modelling
+**** Asynchronous processes
+     - channels
+     - transducers
+     - example: statistics of streaming data
+     - example: reinforcement learning with some Toy UI
+
+*** Additional Topics
+Here the order of classes is not known yet.
+**** Interactive dashboards with Clojurescript
+**** High performance computing
+- The [[https://uncomplicate.org/][Uncomplicate]] collection of libraries
+**** Distributed Computing
+- [[http://www.onyxplatform.org/][The Onyx platform]]
+**** Databases
+**** Python interop
+**** Probabilistic Programming
+- Intro to Bayesian reasoning
+- [[https://probprog.github.io/anglican/index.html][Anglican]]
+- Other options
+**** NLP
+**** Logic programming
+**** Deep learning with Clojure MXNet
+**** Network analysis
+**** Computer Vision
+**** Time Series analysis
+**** Spatial data
+
