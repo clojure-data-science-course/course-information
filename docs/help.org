@@ -14,7 +14,7 @@ This list offers several ways you can help, if you wish. For more details - plea
 
 - Create the course blog, where we will share our talks, examples and home tasks with the community.
 
-- Figure out how to install a development environment (say, Leiningen+Jupyeter+VSCode) in Linux, Mac & Windows. Write a short blog post about it.
+- Figure out how to install a development environment (say, Leiningen+Jupyter+VSCode) in Linux, Mac & Windows. Write a short blog post about it.
 
 - Review other people's talks.
 
