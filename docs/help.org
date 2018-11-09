@@ -5,7 +5,7 @@ Since we announced the course, many people have kindly offered their help and ad
 
 This list offers several ways you can help, if you wish. For more details - please contact the [[https://www.meetup.com/Clojure-Israel/members/63580692/][course organizer]].
 
-- Prepare a talk or help preparing one.
+👩‍🏫- Prepare a talk or help preparing one.
   - Are you excited about Computer Vision? Do you like Clojure's core.async? Do you have any other topic to suggest? Then let us discuss how you can take part in preparing one of the future meetings.
 
 - Help write the homework for classes.
