@@ -91,19 +91,23 @@ Here are some suggestions for the software tools that you may use in the course.
 If you have any difficulty with the installation or usage -- then let us talk. It is better to solve this kind of problems at early stages.
 
 *** The minimum
-You will at least need Java (version 8 or above) and Leiningen (version 2 or above).
+You will at least need Java (JDK version 8 or above) and Leiningen. You may use [[https://practicalli.github.io/clojure/development-tools/][the guide]] of Practical.li for installing them.
 
 *** Notebooks
 In most of our talks will use [[http://jupyter.org/][Jupyter]] notebooks -- not because we beleive it is the best tool, but because it is comfortable for didactic purposes.
 
-For using Jupyter, we recommend [[https://github.com/clojupyter/lein-jupyter][lein-jupyter]].
+For this course, we recommend [[https://github.com/clojupyter/lein-jupyter][lein-jupyter]], which is a convenience wrapper around [[https://github.com/clojupyter/clojupyter][clojupyter]].
 
-(Another way to use them is [[http://beakerx.com/][BeakerX]]. We prefer not to use it here, because it seems to play less naturally together with other tools.)
+**** Other options
+
+Another way to use Jupyter is [[http://beakerx.com/][BeakerX]]. We prefer not to use it here, because it seems to play less naturally together with other tools.
+
+Another type of notebook environment, dedicated to Clojure, is [[http://gorilla-repl.org/][gorilla-repl]]. It has its own visualization library and very interesting ideas regarding composable visual reports. It is rather common among Clojure data scientists.
 
 *** Editors
 At about the 4th meeting, when we start writing larger pieces of code, it will become important to use a proper code editor.
 
-Practical.li has a nice [[https://practicalli.github.io/clojure/development-tools/install-guides/][installation guides]] for several editors.
+Practical.li has nice [[https://practicalli.github.io/clojure/development-tools/install-guides/][installation guides]] for several editors.
 
 At our talks we will use VSCode.
 
