@@ -83,6 +83,8 @@ Here are some blogs to follow:
 - [[https://dragan.rocks/][dragan.rocks]] by [[https://twitter.com/draganrocks][Dragan Djuric]] for linear algebra, high performance computing, etc.
 - [[http://gigasquidsoftware.com/#/blog/archives/index][Squid's Blog]] by [[https://twitter.com/carinmeier][Carin Meier]] for machine learning and artificial intelligence.
 
+**** Statistics
+[[https://twitter.com/izhmyh][Andrey Romanov]] wrote [[https://github.com/drewnoff/openintro-gorilla-incanter][this]] introduction to statistics with Clojure. It it written with [[http://gorilla-repl.org/][gorilla-repl]].
 
 ** Tools
 
