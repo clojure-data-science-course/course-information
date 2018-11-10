@@ -86,28 +86,39 @@ Here are some blogs to follow:
 
 ** Tools
 
-Here are some suggestions for the software tools that you may use in the course. If you have any difficulty -- then let us talk.
+Here are some suggestions for the software tools that you may use in the course.
+
+If you have any difficulty with the installation or usage -- then let us talk. It is better to solve this kind of problems at early stages.
 
 *** The minimum
-You will at least need 
+You will at least need Java (version 8 or above) and Leiningen (version 2 or above).
 
 *** Notebooks
 In most of our talks will use [[http://jupyter.org/][Jupyter]] notebooks -- not because we beleive it is the best tool, but because it is comfortable for didactic purposes.
 
-One way to use them is [[http://beakerx.com/][BeakerX]]. However, in this course we will prefer [[https://github.com/clojupyter/lein-jupyter][lein-jupyter]] (which is more 
+For using Jupyter, we recommend [[https://github.com/clojupyter/lein-jupyter][lein-jupyter]].
 
+(Another way to use them is [[http://beakerx.com/][BeakerX]]. We prefer not to use it here, because it seems to play less naturally together with other tools.)
 
- - We will also suggest a more complete development environment -- probably with VSCode.
+*** Editors
+At about the 4th meeting, when we start writing larger pieces of code, it will become important to use a proper code editor.
 
- Higginbotham's book recommends the wonderful Emacs editor. Eventough it is wonderful, and arguably the best way to do programming, in this course we will use other tools, which are more beginner-friendly: Jupyter and VSCode.
+Practical.li has a nice [[https://practicalli.github.io/clojure/development-tools/install-guides/][installation guides]] for several editors.
 
- For your practice at home, you may also use the following:
- - [[https://sekao.net/nightcode/][Nightcode]] - a minimalistic and easy-to-install development environment for Clojure.
+At our talks we will use VSCode.
+
+**** Other options
+
+If you like Emacs, then you can also use the [[https://www.braveclojure.com/basic-emacs/][installation guide]] at Higginbotham's book.
+
+If you like Spacemacs, then you can also use the more [[https://practicalli.github.io/spacemacs/][detailed guide]] by Practical.li.
+
+Another option is [[https://sekao.net/nightcode/][Nightcode]] - a minimalistic editor, dedicated to Clojure, which is rather easy to install.
+
+*** Trying Clojure online.
+
+ For your practice, you may also use Clojure online.
  - [[https://repl.it/languages/clojure][repl.it]] - here you can try the language online.
-
- Please tell if you have any questions about these.
-
-[[https://practicalli.github.io/clojure/development-tools/][This]] guide seggests several of the well-known tools 
 
 ** Keep in touch
 - We use this [[https://groups.google.com/forum/#!forum/clojure-data-science-course-tlv][discussion mail group]].
