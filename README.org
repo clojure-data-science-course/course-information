@@ -60,71 +60,15 @@ Madlan (Localize.city) offices at Yigal Alon St 57, Tel Aviv.
 
 ** Recommended reading
 
+[[docs/reading.org][Here]] are some suggestions for reading.
+
 If you feel stuck or are facing any difficulty with your reading -- let us talk!
-
-*** Learning Clojure
-**** Clojure for the Brave and True
- [[https://www.braveclojure.com/clojure-for-the-brave-and-true/][This]] book by Daniel Higginbotham ([[https://twitter.com/nonrecursive?lang=en][@nonrecursive]]) is an excellent way to prepare for the course. Several of us have used it as a first book for Clojure. The most relevant chapters are 1,3,4,5,(6),9,11,12.
-
-**** Clojurebridge
- [[https://twitter.com/clojurebridge][ClojureBridge]] is an [[https://clojurebridge.org/][organization]] aiming at making Clojure more accessible to underrepresented groups in tech. It has been organizing workshops in different places during the last several years.
- They wrote [[https://clojurebridge.org/curriculum/#/][this]] short beginner-friendly presentation.
-
-**** Practicalli Clojure
- [[https://practicalli.github.io/clojure/][This]] is a new book by John Stevenson ([[https://twitter.com/jr0cket][@jr0cket]]), under construction. It is part of the [[http://www.practical.li/][Practical.li]] series. You may find its first few sections useful as a guide for building your learning process and for finding other resources.
-
-*** Documentation
-
-**** ClojureDocs
-     [[https://clojuredocs.org/][This]] project is the main place to go.
-
-*** Data science with Clojure
-Here are some blogs to follow:
-- [[http://gigasquidsoftware.com/#/blog/archives/index][Squid's Blog]] by [[https://twitter.com/carinmeier][Carin Meier]] for machine learning and artificial intelligence.
-- [[https://dragan.rocks/][dragan.rocks]] by [[https://twitter.com/draganrocks][Dragan Djuric]] for linear algebra, high performance computing, etc.
-
-**** Statistics
-[[https://twitter.com/izhmyh][Andrey Romanov]] wrote [[https://github.com/drewnoff/openintro-gorilla-incanter][this]] introduction to statistics with Clojure. It it written with [[http://gorilla-repl.org/][gorilla-repl]].
 
 ** Tools
 
-Here are some suggestions for the software tools that you may use in the course.
+[[doc/tools.org][Here]] are some suggestions for the software tools that you may use in the course.
 
 If you have any difficulty with the installation or usage -- then let us talk. It is better to solve this kind of problems at early stages.
-
-*** The minimum
-You will at least need Java (JDK version 8 or above) and Leiningen. You may use [[https://practicalli.github.io/clojure/development-tools/][the guide]] of Practical.li for installing them.
-
-*** Notebooks
-In most of our talks will use [[http://jupyter.org/][Jupyter]] notebooks -- not because we beleive it is the best tool, but because it is comfortable for didactic purposes.
-
-For this course, we recommend [[https://github.com/clojupyter/lein-jupyter][lein-jupyter]], which is a convenience wrapper around [[https://github.com/clojupyter/clojupyter][clojupyter]].
-
-**** Other options
-
-Another way to use Jupyter is [[http://beakerx.com/][BeakerX]]. We prefer not to use it here, because it seems to play less naturally together with other tools.
-
-Another type of notebook environment, dedicated to Clojure, is [[http://gorilla-repl.org/][gorilla-repl]], written by [[https://twitter.com/JonyEpsilon][Jony Hudson]]. It has its own visualization library and very interesting ideas regarding composable visual reports. It is rather common among Clojure data scientists. Another version of it is [[https://github.com/deas/gorilla-notebook][gorilla-notebook]].
-
-*** Editors
-At about the 4th meeting, when we start writing larger pieces of code, it will become important to use a proper code editor.
-
-Practical.li has nice [[https://practicalli.github.io/clojure/development-tools/install-guides/][installation guides]] for several editors.
-
-At our talks we will use VSCode.
-
-**** Other options
-
-If you like Emacs, then you can also use the [[https://www.braveclojure.com/basic-emacs/][installation guide]] at Higginbotham's book.
-
-If you like Spacemacs, then you can also use the more [[https://practicalli.github.io/spacemacs/][detailed guide]] by Practical.li.
-
-Another option is [[https://sekao.net/nightcode/][Nightcode]] - a minimalistic editor, dedicated to Clojure, which is rather easy to install.
-
-*** Trying Clojure online.
-
- For your practice, you may also use Clojure online.
- - [[https://repl.it/languages/clojure][repl.it]] - here you can try the language online.
 
 ** Keep in touch
 - We use this [[https://groups.google.com/forum/#!forum/clojure-data-science-course-tlv][discussion mail group]].
