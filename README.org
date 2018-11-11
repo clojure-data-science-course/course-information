@@ -66,7 +66,7 @@ If you feel stuck or are facing any difficulty with your reading -- let us talk!
 
 ** Tools
 
-[[doc/tools.org][Here]] are some suggestions for the software tools that you may use in the course.
+[[docs/tools.org][Here]] are some suggestions for the software tools that you may use in the course.
 
 If you have any difficulty with the installation or usage -- then let us talk. It is better to solve this kind of problems at early stages.
 
