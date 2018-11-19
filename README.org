@@ -43,7 +43,6 @@ The purpose of this course is to study Clojure as a practical tool for data scie
 - Group B members are mainly clojurians, some new to data science. Thus the meetings orientation will be "data science for clojurians".
 - In about 6 meetings, people should gain some reasonable practical independence with the language.
 - We will have at least 12 meetings -- that is, till the middle of the summer. Then, we may decide to continue with more advanced topics.
-- On the first meetings, the first hour will be for beginners' material. People who feel more experienced will be able to join at the beginning of the second hour.
 
 ** Homework
 - We will have practical homework tasks. They may include some reading.
