@@ -37,8 +37,10 @@ The purpose of this course is to study Clojure as a practical tool for data scie
 - Please contact the [[https://www.meetup.com/Clojure-Israel/members/63580692/][course organizer]] in person.
 
 ** The format
-- We will divide into two small groups, of up to 12 people each.
-- Every 3 weeks we will have two meetings of identical content -- one for each group. At least one of them will be held in English.
+- We will into two small groups, of up to 14 people each.
+- Every 3 weeks we will have two similar meetings -- one for each group. They will probably be held in English (unless everybody are Hebrew speakers).
+- Group A members are mainly data scientists, some new to clojure. Thus the meetings orientation will be "clojure for data scientists".
+- Group B members are mainly clojurians, some new to data science. Thus the meetings orientation will be "data science for clojurians".
 - In about 6 meetings, people should gain some reasonable practical independence with the language.
 - We will have at least 12 meetings -- that is, till the middle of the summer. Then, we may decide to continue with more advanced topics.
 - On the first meetings, the first hour will be for beginners' material. People who feel more experienced will be able to join at the beginning of the second hour.
@@ -49,8 +51,8 @@ The purpose of this course is to study Clojure as a practical tool for data scie
 - After several meetings, we may suggest some optional larger home project.
 
 ** Time
-- Group A meetings: Sunday 18:00-21:00 every 3 weeks.
-- Group B meetings: Wednesday 18:00-21:00 every 3 weeks.
+- Group A (clojure for data scientists): Sunday 18:00-21:00 every 3 weeks.
+- Group B (data sciene for clojurians): Wednesday 18:00-21:00 every 3 weeks.
 - If people feel like it, we will have occasional meetings for doing homework and training together.
 
 ** Place
