@@ -73,8 +73,12 @@ If you feel stuck or are facing any difficulty with your reading -- let us talk!
 If you have any difficulty with the installation or usage -- then let us talk. It is better to solve this kind of problems at early stages.
 
 ** Keep in touch
+
 - We use this [[https://groups.google.com/forum/#!forum/clojure-data-science-course-tlv][discussion mail group]].
-- We will also set a web space place for chat-like discussions.
+
+- For chat, we have this [[https://clojurians.zulipchat.com/#narrow/stream/152323-data-science-course-tlv][stream]] at the clojurians zulip chat. Before using it, please learn a little bit about Zulip's concepts: streams, topics, etc.
+
+(: When we communicate, let us be kind. :)
 
 ** More details
 See some discussions [[https://www.meetup.com/Clojure-Israel/events/255927870/][on the page of the first meeting]].
