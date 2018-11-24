@@ -23,7 +23,7 @@ At about the 4th meeting, when we start writing larger pieces of code, it will b
 
 Practical.li has nice [[https://practicalli.github.io/clojure/development-tools/install-guides/][installation guides]] for several editors.
 
-At our talks we will use VSCode.
+At our talks we will use Atom.
 
 **** Other options
 
