@@ -1,2 +1,2 @@
-See the [[https://clojure-data-science-course.github.io/][course website]].
+Details moved to the [[https://clojure-data-science-course.github.io/][course website]].
 
